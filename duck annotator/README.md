@@ -21,11 +21,19 @@ and that companion will be  ducky <img width="16" height="16" alt="icon16" src="
 
 ## About ducky
 
-* ducky is quite a responsible guy he will not disturb you when you are on youtbe,instagram, facebook , reddit or any such social variable platform he just jumps out of the screen or rather jumps of to hide some where and he will spawn in when you might need him
+* ducky is quite a responsible guy he will not disturb you when you are on youtbe,instagram, facebook , reddit or any such social variable platform he just jumps out of the screen or rather jumps of to hide some where and he will spawn in when you might need him, 
+  *ducky jumping off on reddit look at the bottom right corner
+  
+  <img width="800" height="415" alt="duckyjumpsoff" src="https://github.com/user-attachments/assets/d0cbea95-c2c8-4176-afd0-3a4149e3c065" />
+
 
 *ducky is  animated not at disney level  i have added light movements and such to give character to him
 
 *click on him to chat with him or ask any doubts 
+  *asking ducky:
+  
+
+
 
 ## Giving brain to ducky
 

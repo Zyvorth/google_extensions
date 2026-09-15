@@ -88,6 +88,7 @@ and that companion will be  ducky <img width="16" height="16" alt="icon16" src="
 
 ## note:
 *this is just a good enough working prototype , please feel free to use it as you please and modify it
+* i have used codex and claude to create this  , i personally hate using AI to do these kind of ideation process but there is a draw back to this usually i create things randomly like across fields in this case i am not really proficient in any of the topics to create this other than some css basic knowledge , i am more interested in ml and specificaly RL so i dont want to learn all these to creae an idea which i usually get frequently 
 * will love to hear your feed backs ,
 * i didint add the chat gui cause its kind of long and makes the readme really not fit my asthetic😭
  but heres the chat gui:

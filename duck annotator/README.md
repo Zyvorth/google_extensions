@@ -5,11 +5,11 @@
 
 ## what is duck annotator:
 
-duck annotator is a google extension that i have created for my need to highlight things on the webpages itself rather than copying it down to obsidian or such note taking apps or rather writing it down , you could say its a result of my laziness. what the extension does is it helps you to highlight some text on the webpage and store the data regarding where you have highlighted the web page locally on your device such that those high lights will not be lost when you later open the webpage which you were reading and it also allows you to make small notes near the highlighted text 
-and i have also added a feature to ask an ai agent about the high lighted part to summarize it and just a companion to chat to 
+duck annotator is a google extension that i have created for my need to highlight things on the webpages itself rather than copying it down to obsidian or such note taking apps or rather writing it down , you could say its a result of my laziness. what the extension does is it helps you to highlight some text on the webpage and store the data regarding where you have highlighted the web page locally on your device such that those highlights will not be lost when you later open the webpage which you were reading and it also allows you to make small notes near the highlighted text 
+and i have also added a feature to ask an ai agent about the high lighted part to summarize it , also to have a companion to chat to and ask doubts to
 
 and that companion will be  ducky <img width="16" height="16" alt="icon16" src="https://github.com/user-attachments/assets/fb7dfc27-d0bd-4a73-ae0a-226ba4c627e4" />
- as your companion he might not work well if you dont have a relaible api 😅
+ as your companion he might not work well if you dont have a reliable api 😅
 
 ## so what are the feature ?
 
@@ -21,20 +21,20 @@ and that companion will be  ducky <img width="16" height="16" alt="icon16" src="
 
 ## About ducky
 
-* ducky is quite a responsible guy he will not disturb you when you are on youtbe,instagram, facebook , reddit or any such social variable platform he just jumps out of the screen or rather jumps of to hide some where and he will spawn in when you might need him, 
-  *ducky jumping off on reddit look at the bottom right corner
+* ducky is quite a responsible guy he will not disturb you when you are on youtube,instagram, facebook , reddit or any such social variable platform he just jumps out of the screen or rather jumps of to hide some where and he will spawn in when you might need him, 
+  *ducky jumping off  reddit look at the bottom right corner
   
   <img width="800" height="415" alt="duckyjumpsoff" src="https://github.com/user-attachments/assets/d0cbea95-c2c8-4176-afd0-3a4149e3c065" />
 
 
-*ducky is  animated not at disney level  i have added light movements and such to give character to him
+*ducky is  animated (not at disney level),  i have added light movements and such to give character to him
 
 *click on him to chat with him or ask any doubts 
 *asking ducky:
-   * you can ask something to ducky by just selecting the text and ask button will show up above it, this           passes the selected text directly to the ai api with the tag expalin on it
+   * you can ask something to ducky by just selecting the text and ask button will show up above it, this  passes the selected text directly to the ai agent with the tag expalin on it
      <img width="800" height="174" alt="ask_duck1" src="https://github.com/user-attachments/assets/6a6b8672-55f1-4d9e-aaf1-c6ee35e60fb5" />
-   * you can click on him to open up the chating iterface where you can chat with him and acsess the other          functionality like clearing all highlights in the page, to summarize the highlights and to export the          highlights to obsidian (still under going some minor routing issues)
-   
+   * you can click on him to open up the chating iterface where you can chat with him and acsess the other          functionality like clearing all highlights in the page, to summarize the highlights and to export the          highlights to obsidian (this feature is still under going some minor routing issues)
+
 ## Giving brain to ducky
 
 * As duckys friend its your responsibility to give him brain other wise he will not be a champ , so  please add an api key in the settings to give ducky the power to help you , you will only be able to highlight without him if thats enough for you you may not give ducky the power

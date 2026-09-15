@@ -76,6 +76,16 @@ and that companion will be  ducky <img width="16" height="16" alt="icon16" src="
      * click on the ducky logo on the google header a small gui window opens up there will be a settings              button on it, click on it and a new page opens up there you will see the button to clear all locally           stored data about high lights on several webpages
        <img width="928" height="1110" alt="Screenshot 2026-09-15 at 9 01 00 AM" src="https://github.com/user-attachments/assets/83524c02-9eb9-4324-b224-c77cb057ce9f" />
 
+## setting up DUCK ANNOTATOR
+
+* download the DUCK ANNOTATOR.zip file that i have provided and extract it a new folder named duck annotator with all the code will be formed
+* open google extensions and turn on developer mode by clicking on the switch at the top righ corner side
+* click load unpacked
+*  select the folder and upload it
+* refresh the page and click on the extension (puzzle like logo on the google header)  and pin ducky
+* now add the api key as i have said
+* you have just added ducky to your browser.
+
 ## note:
 *this is just a good enough working prototype , please feel free to use it as you please and modify it
 * will love to hear your feed backs ,
